@@ -1,4 +1,4 @@
 esto es un simple
 texto
 nada mas
--edad
+-vida

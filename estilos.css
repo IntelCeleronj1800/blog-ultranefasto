@@ -14,3 +14,9 @@ body {
     /* font-size: 20px; */
     color: red;
 }
+#cabecera {
+    padding: 4px;
+    box-shadow: 4px 4px 4px 4px #888;
+    color: cyan;
+    background-color: darkgoldenrod;
+}

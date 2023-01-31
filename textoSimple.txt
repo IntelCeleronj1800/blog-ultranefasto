@@ -4,3 +4,4 @@ nada mas
 -vida
 -texto reemplazable
 -agregar al mismo commit
+-cambios

@@ -5,4 +5,3 @@ nada mas
 -texto reemplazable
 -agregar al mismo commit
 -cambios
--soy el rojo

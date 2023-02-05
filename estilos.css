@@ -16,17 +16,7 @@ body {
 }
 #cabecera {
     padding: 4px;
-    font-size: 20px;
-    font-weight: bolder;
     box-shadow: 4px 4px 4px 4px #888;
     color: cyan;
     background-color: darkgoldenrod;
-}
-.footer {
-    background: rebeccapurple;
-    width: 40rem;
-    margin-left: 40px;
-    padding: 2px 2px;
-    margin-top: 11px;
-    border-radius: 8px;
 }

@@ -17,6 +17,7 @@ body {
 #cabecera {
     padding: 4px;
     box-shadow: 4px 4px 4px 4px #888;
+    font-weight: bolder;
     color: cyan;
     background-color: darkgoldenrod;
 }

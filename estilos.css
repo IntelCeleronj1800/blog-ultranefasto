@@ -20,3 +20,7 @@ body {
     color: cyan;
     background-color: darkgoldenrod;
 }
+.footer {
+    background-color: rebeccapurple;
+    padding: 5px;
+}

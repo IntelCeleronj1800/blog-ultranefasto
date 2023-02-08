@@ -25,3 +25,10 @@ body {
     background-color: rebeccapurple;
     padding: 5px;
 }
+.ene-imagen {
+    /* width:100% */
+    background-color: red;
+}
+.imagen {
+    width:100%
+}

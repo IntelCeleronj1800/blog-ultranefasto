@@ -6,5 +6,5 @@ nada mas
 -agregar al mismo commit
 -cambios
 -soy el rojo 🎈, y ahora solo soy un simple contribuidor del proyecto.
--abeja 🐝
+-abeja 🐝 zumbadora
 

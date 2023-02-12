@@ -17,10 +17,18 @@ body {
 #cabecera {
     padding: 4px;
     box-shadow: 4px 4px 4px 4px #888;
+    font-weight: bolder;
     color: cyan;
     background-color: darkgoldenrod;
 }
 .footer {
     background-color: rebeccapurple;
     padding: 5px;
+}
+.ene-imagen {
+    /* width:100% */
+    background-color: red;
+}
+.imagen {
+    width:100%
 }

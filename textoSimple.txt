@@ -5,6 +5,6 @@ nada mas
 -texto reemplazable
 -agregar al mismo commit
 -cambios
--soy el rojo 🎈
--abeja 🐝
--un caballo corriendo 🐴
+-soy el rojo 🎈, y ahora solo soy un simple contribuidor del proyecto.
+-abeja 🐝 zumbadora
+
